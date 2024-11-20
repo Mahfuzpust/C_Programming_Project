@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define MAX_BOOKS 1000
+#define MAX_BOOKS 2000
 
 struct Book {
     int id;
